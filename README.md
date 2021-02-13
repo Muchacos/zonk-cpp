@@ -1,2 +1,2 @@
 # zonk-cpp
-This is a С++ version of the zonk-game project, implemented on the olcConsoleGameEngine
+This is a VS С++ version of the zonk-game project, implemented on the olcConsoleGameEngine
